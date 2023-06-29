@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![rahuls77's Stats](https://github-readme-stats.vercel.app/api?username=rahuls77&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **RahulS77/RahulS77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
